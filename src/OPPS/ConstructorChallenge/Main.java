@@ -1,4 +1,4 @@
-package _Basic.OPPS.ConstructorChallenge;
+package OPPS.ConstructorChallenge;
 
 public class Main
 {

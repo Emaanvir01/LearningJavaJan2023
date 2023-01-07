@@ -1,4 +1,4 @@
-package _Basic.OPPS.CLASS;
+package OPPS.CLASS;
 
 import java.util.Locale;
 

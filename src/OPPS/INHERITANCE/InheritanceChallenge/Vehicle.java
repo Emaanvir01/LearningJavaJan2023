@@ -1,4 +1,4 @@
-package _Basic.OPPS.INHERITANCE.InheritanceChallenge;
+package OPPS.INHERITANCE.InheritanceChallenge;
 
 public class Vehicle
 {

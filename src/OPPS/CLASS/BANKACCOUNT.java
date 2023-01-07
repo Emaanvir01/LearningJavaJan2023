@@ -1,4 +1,4 @@
-package _Basic.OPPS.CLASS;
+package OPPS.CLASS;
 
 public class BANKACCOUNT
 {

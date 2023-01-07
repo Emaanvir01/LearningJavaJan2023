@@ -1,4 +1,4 @@
-package _Basic.OPPS.INHERITANCE;
+package OPPS.INHERITANCE;
 
 public class   ANIMAL
 {
